@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkacm_website=self.webpackChunkacm_website||[]).push([[6028],{629:s=>{s.exports=JSON.parse('{"tags":[{"label":"Hola","permalink":"/acm-website/blog/tags/hola","description":"Hola tag description","count":1},{"label":"Docusaurus","permalink":"/acm-website/blog/tags/docusaurus","description":"Docusaurus tag description","count":2}]}')}}]);

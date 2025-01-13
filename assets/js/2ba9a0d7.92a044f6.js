@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkacm_website=self.webpackChunkacm_website||[]).push([[7585],{3632:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/acm-website/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

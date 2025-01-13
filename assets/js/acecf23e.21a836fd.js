@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkacm_website=self.webpackChunkacm_website||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/acm-website/blog","blogTitle":"Blog","authorsListPath":"/acm-website/blog/authors"}')}}]);
