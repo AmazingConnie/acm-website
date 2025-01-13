@@ -15,15 +15,15 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://uml-association-for-computing-machinery.github.io',
+  url: 'https://amazingconnie.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/acm-website/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'UML-Association-For-Computing-Machinery', // Usually your GitHub org/user name.
-  projectName: 'uml-association-for-computing-machinery.github.io', // Usually your repo name.
+  organizationName: 'amazingconnie', // Usually your GitHub org/user name.
+  projectName: 'acm-website', // Usually your repo name.
   trailingSlash: false,
   deploymentBranch: 'gh-pages',
   onBrokenLinks: 'throw',
